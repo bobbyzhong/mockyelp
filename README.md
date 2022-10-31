@@ -4,5 +4,5 @@ Created a mock yelp using data from Yelp Fusion API. Allows users to search for 
 
 Filters businesses by three price ranges
 
-<!-- [github.com\name\repo\]
-<img width="200" alt="screenshot" src="https://github.com/bobbyzhong/mockyelp/blob/main/assets/Screen%20Shot%202022-10-30%20at%204.32.31%20PM.png"> -->
+[github.com\name\repo\]
+<img width="250" alt="screenshot" src="https://github.com/bobbyzhong/mockyelp/blob/main/assets/Screen%20Shot%202022-10-31%20at%201.29.30%20AM.png">
