@@ -7,7 +7,6 @@ Learned about state management, connecting to and parsing data from api's, creat
 \*see demo at bottom
 
 <img width="250" alt="screenshot" src="assets/initscreen.png">
-
 <img width="250" alt="screenshot" src="assets/tacos.png">
 
 <img width="250" alt="screenshot" src="assets/screenrec.gif">
