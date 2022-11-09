@@ -1,8 +1,13 @@
-# Mock Yelp
+# Mock simple Yelp
 
-Created a mock yelp using data from Yelp Fusion API. Allows users to search for a genre of a business and also click on a specific business to open up their Yelp profile online.
+One of my early projects for learning React Native. Used Yelp Fusion API to create a restaurant/shop finder. Finds all businesses related to a given search term near Irvine, CA. Results are filtered by the dollar sign category that Yelp assigns to the business (either $, $$, or $$$). You can scroll through the results horizontally and tapping on one takes you to their yelp profile.
 
-Filters businesses by three price ranges
+Learned about state management, connecting to and parsing data from api's, creating componenets in react and more.
 
-[github.com\name\repo\]
-<img width="250" alt="screenshot" src="https://github.com/bobbyzhong/mockyelp/blob/main/assets/Screen%20Shot%202022-10-31%20at%201.29.30%20AM.png">
+\*see demo at bottom
+
+<img width="250" alt="screenshot" src="assets/initscreen.png">
+
+<img width="250" alt="screenshot" src="assets/tacos.png">
+
+<img width="250" alt="screenshot" src="assets/screenrec.gif">
